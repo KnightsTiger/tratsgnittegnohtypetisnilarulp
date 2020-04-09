@@ -1,0 +1,8 @@
+k
+& C:/Users/Admin/AppData/Local/Programs/Python/Python38-32/python.exe d:/Python/Pluralinsite/gettingstart/7Workingwithfiles.py
+
+one
+d
+d
+df
+& C:/Users/Admin/AppData/Local/Programs/Python/Python38-32/python.exe d:/Python/Pluralinsite/gettingstart/8itaratingfunction.py
