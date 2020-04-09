@@ -1,0 +1,6 @@
+pip install pyinstaller
+pyinstaller --onefile .\main.py    ------- main.py is the python main class
+
+to convert to a set up file
+
+1. Download inno setup (search from google)
